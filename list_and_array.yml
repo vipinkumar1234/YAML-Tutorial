@@ -1,0 +1,13 @@
+subject:
+  - history
+  - biology
+  - math
+  - computer
+  - physics
+
+
+### Array ########
+
+Marks_obtained_by_students: [230, 345, 233, 445 ]
+
+color: [red, blue, green, yellow]

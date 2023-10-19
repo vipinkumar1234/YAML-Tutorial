@@ -1,0 +1,9 @@
+persons:
+  name: vipin
+  age: ayx
+  city: bangalore
+  hobbies:
+    - cricket
+    - chess
+    - carrom
+    - badminton

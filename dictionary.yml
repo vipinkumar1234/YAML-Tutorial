@@ -1,0 +1,35 @@
+person: 
+  name: vipin Kumar
+  age: xyz
+  profession: eng
+  city: bangalore
+
+### nested dic ##########
+
+Student:
+  name: rahul
+  age: 19
+  std: 12th
+  subject:
+    - math
+    - physics
+    - chemestry
+    - history
+
+#### Mixed dic     #####
+
+configuration:
+  server: dev
+  port: 8080
+  stage: deploy
+
+### nested dic ####
+
+
+Company: 
+  Name: XYZ 
+  employees: 
+    - name: saryu
+      role: dev
+    - name: adarsh
+      role: trainee  

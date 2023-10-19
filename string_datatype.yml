@@ -1,0 +1,33 @@
+### Simple list
+
+fruits:
+  - apple
+  - mango
+  - bnana
+  - kiwi
+  - grapes
+
+students: 
+  - vipin
+  - rahul
+  - adarsh
+  - atul  
+  - ayush
+
+  # List of numbers 
+
+numbers: [1,2,3,4,5]  
+
+#   Mixed data type
+
+class:
+  - rahuly
+  - 16
+  - 7
+
+#   Nested data types  
+
+Group:
+ - [2,3,4]
+ - [89,63,73]
+ - [ 78, 38, 98]

@@ -1,0 +1,12 @@
+multiline_string_literal: | 
+  This is multilien multiline_string_literal
+  we are doing practice
+  to write literal multiline string 
+
+multiline_string_folded: >
+  This is just a folded muliline 
+  stringvalue
+  anything
+  what we want to write   
+
+

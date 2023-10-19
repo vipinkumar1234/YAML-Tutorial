@@ -1,0 +1,8 @@
+- &company
+  employee1: vipin
+  employee2: Adarsh
+  employees3: noopur
+
+- *company 
+
+test_name: &test
